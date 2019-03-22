@@ -21,10 +21,11 @@ Then within the running container you can call make or gcc as if it were a
 native tool.  The libraries added to this image will be in the global include
 path.
 
-## GNU GCC
+## Go
 
-The GNU Compiler Collection is a compiling system that supports several
-languages.  This project focuses more on the C and C++ usage.
+The Go Programming Language (golang) is an open source programming language
+that makes it easy to build simple, reliable, and efficient software.
+* https://golang.org/
 
 ## spdlog
 
