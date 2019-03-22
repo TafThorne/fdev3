@@ -27,11 +27,11 @@ The Go Programming Language (golang) is an open source programming language
 that makes it easy to build simple, reliable, and efficient software.
 * https://golang.org/
 
-## spdlog
+## OpenJFX
 
-spdlog is a fast, header only C++ logging library.  For further details please
-see their project page.
-* https://github.com/gabime/spdlog
+OpenJFX is the open source home of JavaFX development. The goal of OpenJFX is
+to build the next-generation Java client toolkit.
+* http://openjdk.java.net/projects/openjfx/
 
 ## Contributing
 
