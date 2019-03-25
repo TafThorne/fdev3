@@ -9,6 +9,7 @@ USER 0
 RUN \
   apt-get -y update && \
   apt-get -y install \
+    clang \
     openjfx \
     unzip \
   && rm -rf /var/lib/apt/lists/*; \
